@@ -10,3 +10,4 @@
 #     if not char.isnumeric():
 #         seprator = seprator + char
 #         print(seprator)
+# jkjhkjl
